@@ -7,6 +7,7 @@
 //
 
 #import "DEMOPREFIXViewController.h"
+#import "UIView+Toast.h"
 
 @interface DEMOPREFIXViewController ()
 
